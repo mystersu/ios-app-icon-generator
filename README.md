@@ -1,25 +1,12 @@
 # Mobile App Icon Generator for Mac OS X
 
 Mac OS X app to generate multiple size for app icon. Support:
-- iOS 7 or newer
+- iOS 8 and newer
 - iPhone & iPad app
-- Newest Android Studio
-- Work on Mac OS X 10.9 or newer (also support El Capitan)
+- Work on Mac OS X 10.9 or newer
 
-Download Latest Version: https://github.com/laptrinhcomvn/ios-app-icon-generator/releases
+Download Latest Version: https://github.com/iop883684/ios-app-icon-generator/releases/
 
-v2.1
-- Updated to support MacOS Sierra
-- Now support for Xcode 8 & iOS 10 Icon set
-
-
-v2.0
-- Support Mac OS X 10.11 El Capitan
-- Support Android App icon
-
-v1.0
-- iOS 7 or newer
-- Work on Mac OS X 10.9, 10.10
 
 Screenshots:
 
